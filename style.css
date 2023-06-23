@@ -140,3 +140,10 @@ body {
     width: 85px;
     border-radius: 38px 8px 38px 8px;
 }
+.cylogo{
+    height: 58px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 38px 8px 38px 8px;
+    
+}
